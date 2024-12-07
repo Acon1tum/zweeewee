@@ -17,5 +17,4 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Acon1tum&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact&title_color=ff69b4&text_color=ff69b4" alt="usedLanguages" />
 </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3864120" style='border:none;'></iframe>
 
