@@ -1,7 +1,7 @@
-﻿<p align="center">
+<!--﻿<p align="center">
   <a href="https://github.com/Acon1tum"><img src="weekend-ending-middle-finger.gif" alt="Banner"></a>
 </p>
-
+-->
 <h1 align="center">Hi, I'm <a href="https://github.com/Acon1tum">Acon1tuM</a>!</h1>
 <h1 align="center">~~~~~~Welcome to my GitHub profile~~~~~~</h1>
 
